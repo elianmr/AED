@@ -1,0 +1,3 @@
+Ingrese un numero para saber si es par o no
+5
+No es par
